@@ -674,7 +674,6 @@ function createInvoices(serviceGroup, services, client, details){
           if(notes)
             description = description +" - "+notes;
   
-          let location = service.get("location");
           if(location)
             location = location.toUpperCase();
           else
