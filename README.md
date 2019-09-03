@@ -27,9 +27,9 @@ Esto solo se debe realizar la primera vez.
 ### Inciar el proceso de facturación.
 
 Para iniciarl el proces se debe abrir el documento details.json e indicar el tipo de factuación a relizar
-*prepaid* : _prepago o regular_
-*postpaid* _post-pago_
-*inAdvance* _facturación adelantada_
+*prepaid*   : _prepago o regular_ \n
+*postpaid*  : _post-pago_ \n
+*inAdvance* : _facturación adelantada_ \n
 
 Ejemplo
 ```
@@ -40,7 +40,7 @@ Ejemplo
 }
 
 ```
-Para iniciar la domiciliación:
+Para iniciar la facturación:
 
 ```
 node index.js
