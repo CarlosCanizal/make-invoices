@@ -27,6 +27,8 @@ Esto solo se debe realizar la primera vez.
 ### Inciar el proceso de facturación.
 
 Para iniciarl el proces se debe abrir el documento details.json e indicar el tipo de factuación a relizar
+
+
 *prepaid*   : _prepago o regular_
 
 
